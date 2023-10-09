@@ -1,0 +1,23 @@
+========== HEADER ==========
+.nav__logo
+Halloween
+
+.nav__link
+Home - About Us - Portfolio - Contact Us
+
+
+========== HOME ==========
+.home__subtitle
+TRICK OR TREAT
+
+.home__title
+HALLOWEEN
+
+.home__description
+Halloween is celebrated every October 31 at night, 
+walk through the city with your friends and enjoy 
+trick or treating, spend a terrifying night under 
+the full moon.
+
+.home__button
+CLICK HERE
